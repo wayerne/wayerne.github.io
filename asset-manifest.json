@@ -1,16 +1,18 @@
 {
-  "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.07a4ecd8.js",
-    "static/js/787.994511a4.chunk.js": "/static/js/787.994511a4.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.07a4ecd8.js.map": "/static/js/main.07a4ecd8.js.map",
-    "787.994511a4.chunk.js.map": "/static/js/787.994511a4.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.07a4ecd8.js"
-  ]
+  "main.css": "/iumovie/static/css/main.ea0663a0.chunk.css",
+  "main.js": "/iumovie/static/js/main.b3324396.chunk.js",
+  "main.js.map": "/iumovie/static/js/main.b3324396.chunk.js.map",
+  "static/css/1.e05f3521.chunk.css": "/iumovie/static/css/1.e05f3521.chunk.css",
+  "static/js/1.d67e5814.chunk.js": "/iumovie/static/js/1.d67e5814.chunk.js",
+  "static/js/1.d67e5814.chunk.js.map": "/iumovie/static/js/1.d67e5814.chunk.js.map",
+  "runtime~main.js": "/iumovie/static/js/runtime~main.100dc89a.js",
+  "runtime~main.js.map": "/iumovie/static/js/runtime~main.100dc89a.js.map",
+  "static/media/newpage.css": "/iumovie/static/media/home.9b3ce97e.jpg",
+  "static/media/favicon_for_iumovie.ico": "/iumovie/static/media/favicon_for_iumovie.49afadd1.ico",
+  "static/media/bootstrap-icons.css": "/iumovie/static/media/bootstrap-icons.b57a5890.woff2",
+  "static/css/1.e05f3521.chunk.css.map": "/iumovie/static/css/1.e05f3521.chunk.css.map",
+  "static/css/main.ea0663a0.chunk.css.map": "/iumovie/static/css/main.ea0663a0.chunk.css.map",
+  "index.html": "/iumovie/index.html",
+  "precache-manifest.e924eadaf031bc1c86555914e44163b4.js": "/iumovie/precache-manifest.e924eadaf031bc1c86555914e44163b4.js",
+  "service-worker.js": "/iumovie/service-worker.js"
 }
